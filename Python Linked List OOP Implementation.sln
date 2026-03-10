@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python Linked List OOP Implementation", "Python Linked List OOP Implementation.pyproj", "{5776EC74-0FB4-413B-AD0D-9D7B4ED9AE7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5776EC74-0FB4-413B-AD0D-9D7B4ED9AE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5776EC74-0FB4-413B-AD0D-9D7B4ED9AE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9408CA3E-2E3A-44F4-96D3-92A635B961D5}
+	EndGlobalSection
+EndGlobal
